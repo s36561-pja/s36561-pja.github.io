@@ -1,4 +1,4 @@
-body {
+body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: darkred;
     color: chocolate;
@@ -8,7 +8,7 @@ body {
     padding-right: 30%;  
 }
 
-header {
+header{
     color: rgb(235, 171, 9);
     text-align: center;
 }
@@ -34,12 +34,11 @@ h4{
     text-align: center;
 }
 
-img {
+img{
     align-self: center;
     background-color: rgb(226, 202, 170);
 }
 
-.photo{
-    align-self: center;
-    border: 30px rgb(226, 202, 170);
-}
+footer{
+    color: rgb(136, 90, 57);
+} 
