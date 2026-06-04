@@ -9,6 +9,7 @@ body {
 header {
     background-color: brown;
     color: rgb(235, 171, 9);
+    text-align: center;
 }
 
 img{
