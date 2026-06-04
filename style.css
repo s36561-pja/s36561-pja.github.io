@@ -4,8 +4,10 @@ body {
     color: chocolate;
     font-size: large;
     text-align: center;
-    padding-left: 500px;
-    padding-right: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
     
 }
 
