@@ -1,6 +1,7 @@
 body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: darkred;
-    color: darkorange;
+    color: rgb(255, 208, 0);
     font-size: medium;
+    text-align: center;
 }
