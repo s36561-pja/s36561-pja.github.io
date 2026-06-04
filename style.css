@@ -18,16 +18,20 @@ h1{
     background-color: brown;
     color: rgb(235, 171, 9);
     text-align: center;
+    background-size: 100%;
 }
 
 h2{
-    background-color: brown;
     color: rgb(235, 171, 9);
     text-align: center;
 }
 
 h3{
-    background-color: brown;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}
+
+h4{
     color: rgb(235, 171, 9);
     text-align: center;
 }
@@ -35,5 +39,5 @@ h3{
 img {
     align-self: center;
     border-color: darkgrey;
-    border: 200px;
+    border: 20%;
 }
