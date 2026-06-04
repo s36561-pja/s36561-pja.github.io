@@ -18,6 +18,34 @@
 
 <p>Out of all the records I have, the largest collection is the TOP one, despite also being the most recent one. This collection includes four vinyls, which are: <b>Clany, Trench, Breach, and Blurryface.</b></p>
 
+<header>
+<h4>Clancy</h4>
+</header>
+
+<img src="Clancy.jpg"
+alt="Clancy">
+
+<header>
+<h4>Trench</h4>
+</header>
+
+<img src="Trench.jpg"
+alt="Trench">
+
+<header>
+<h4>Breach</h4>
+</header>
+
+<img src="Breach.jpg"
+alt="Breach">
+
+<header>
+<h4>Blurryface</h4>
+</header>
+
+<img src="Blurryface.jpg"
+alt="Blurryface">
+
 <footer>Zofia Wende, s36561</footer>
 
 </body>
