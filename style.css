@@ -36,6 +36,6 @@ h4{
 
 img {
     align-self: center;
-    background-color: darkgrey;
-    background-position: 10%;
+    border: darkgrey;
+    border-radius: 20%;
 }
