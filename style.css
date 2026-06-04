@@ -16,6 +16,26 @@ header {
     text-align: center;
 }
 
+h1{
+    background-color: brown;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}
+
+h2{
+    background-color: brown;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}
+
+h3{
+    background-color: brown;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}
+
+
+
 img {
     align-self: center;
     border-color: darkgrey;
