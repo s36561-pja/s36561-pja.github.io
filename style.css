@@ -44,3 +44,27 @@ footer{
     background-color: maroon;
 } 
 
+nav{
+    background-color: antiquewhite;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}
+
+nav:hover{
+background-color: rgb(150, 140, 127);
+    color: rgb(158, 115, 6);
+    text-align: center;
+}
+
+a{
+  background-color: antiquewhite;
+    color: rgb(235, 171, 9);
+    text-align: center;
+}   
+
+a:hover{
+    background-color: rgb(150, 140, 127);
+    color: rgb(158, 115, 6);
+    text-align: center;
+}
+
