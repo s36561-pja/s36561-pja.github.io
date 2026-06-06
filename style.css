@@ -58,7 +58,7 @@ background-color: rgb(150, 140, 127);
     text-align: center;
     display: flex;
     gap: 10%;
-    transition: background-color: rgb(150, 140, 127), ease 1s, color ease 1s
+    transition: background-color rgb(150, 140, 127), ease 1s, color ease 1s
 }
 
 a{
@@ -75,6 +75,6 @@ a:hover{
     text-align: center;
     display: flex;
     gap: 10%;
-    transition: background-color: rgb(150, 140, 127), ease 1s, color ease 1s
+    transition: background-color rgb(150, 140, 127), ease 1s, color ease 1s
 }
 
