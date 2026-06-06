@@ -41,7 +41,6 @@ img{
 footer{
     color: rgb(235, 171, 9);
     background-color: maroon;
-    padding: 35px;
 } 
 
 nav{
@@ -52,7 +51,6 @@ nav{
     display: flex;
     justify-content: center;
     gap: 20px;
-    padding: 10px
 }
 
 nav:hover{
