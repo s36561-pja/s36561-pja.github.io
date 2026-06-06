@@ -50,7 +50,7 @@ nav{
     text-align: center;
     display: flex;
     justify-content: center;
-    transition: background-color: ease 1s, color ease 1s;
+    transition: background-color ease 1s, color ease 1s;
 }
 
 nav:hover{
@@ -67,7 +67,7 @@ a{
     text-align: center;
     display: flex;
     justify-content: center;
-    transition: background-color: ease 1s, color ease 1s;
+    transition: background-color ease 1s, color ease 1s;
 }   
 
 a:hover{
