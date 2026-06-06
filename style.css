@@ -41,7 +41,8 @@ img{
 footer{
     color: rgb(235, 171, 9);
     background-color: maroon;
-    padding: 20px;
+    padding-left: 100%;
+    padding-right: 100%;
 } 
 
 nav{
