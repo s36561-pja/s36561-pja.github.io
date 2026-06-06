@@ -37,9 +37,9 @@ h4{
 img{
     align-self: center;
     background-color: rgb(226, 202, 170);
-    border: 30px;
+    border: 50px;
     border-color: blanchedalmond;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 footer{
