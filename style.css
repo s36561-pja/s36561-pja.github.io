@@ -50,6 +50,7 @@ nav{
     transition: background-color ease 1s, color ease 1s;
     display: flex;
     justify-content: center;
+    gap: 20%;
 }
 
 nav:hover{
