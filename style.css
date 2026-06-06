@@ -47,30 +47,26 @@ footer{
 nav{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
-    justify-content: center;
-    display: flex;
+    text-align: center;
     transition: background-color ease 1s, color ease 1s;
 }
 
 nav:hover{
 background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    justify-content: center;
-    display: flex;
+    text-align: center;
 }
 
 a{
   background-color: antiquewhite;
     color: rgb(235, 171, 9);
-    justify-content: center;
-    display: flex;
+    text-align: center;
     transition: background-color ease 1s, color ease 1s;
 }   
 
 a:hover{
     background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    justify-content: center;;
-    display: flex;
+    text-align: center;
 }
 
