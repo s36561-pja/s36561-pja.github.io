@@ -48,7 +48,7 @@ nav{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
-    transition: background-color ease 1s, color ease 1s, center;
+    transition: background-color ease 1s, color ease 1s;
 }
 
 nav:hover{
@@ -61,7 +61,7 @@ a{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
-    transition: background-color ease 1s, color ease 1s, center;
+    transition: background-color ease 1s, color ease 1s;
 }   
 
 a:hover{
