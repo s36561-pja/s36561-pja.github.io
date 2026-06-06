@@ -52,13 +52,13 @@ nav{
 }
 
 nav:hover{
-background-color: rgb(150, 140, 127);
+    background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
     text-align: center;
 }
 
 a{
-  background-color: antiquewhite;
+    background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
     transition: background-color ease 1s, color ease 1s;
