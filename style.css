@@ -47,10 +47,12 @@ nav{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
-    transition: background-color ease 1s, gap ease 1s, padding ease 1s, color ease 1s;
+    transition: background-color ease 1s, padding ease 1s, color ease 1s;
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding: 10px
+
 }
 
 nav:hover{
