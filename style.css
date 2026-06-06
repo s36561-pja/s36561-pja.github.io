@@ -48,23 +48,33 @@ nav{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
+    display: flex;
+    gap: 10%;
 }
 
 nav:hover{
 background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
     text-align: center;
+    display: flex;
+    gap: 10%;
+    transition: 1s;
 }
 
 a{
   background-color: antiquewhite;
     color: rgb(235, 171, 9);
     text-align: center;
+    display: flex;
+    gap: 10%;
 }   
 
 a:hover{
     background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
     text-align: center;
+    display: flex;
+    gap: 10%;
+    transition: 1s;
 }
 
