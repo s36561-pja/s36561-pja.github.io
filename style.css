@@ -41,6 +41,7 @@ img{
 footer{
     color: rgb(235, 171, 9);
     background-color: maroon;
+    gap: 35px;
 } 
 
 nav{
