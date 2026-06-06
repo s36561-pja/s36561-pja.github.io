@@ -47,7 +47,7 @@ footer{
 nav{
     background-color: antiquewhite;
     color: rgb(235, 171, 9);
-    text-align: center;
+    justify-content: center;
     display: flex;
     transition: background-color ease 1s, color ease 1s;
 }
@@ -55,14 +55,14 @@ nav{
 nav:hover{
 background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    text-align: center;
+    justify-content: center;
     display: flex;
 }
 
 a{
   background-color: antiquewhite;
     color: rgb(235, 171, 9);
-    text-align: center;
+    justify-content: center;
     display: flex;
     transition: background-color ease 1s, color ease 1s;
 }   
@@ -70,7 +70,7 @@ a{
 a:hover{
     background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    text-align: center;
+    justify-content: center;;
     display: flex;
 }
 
