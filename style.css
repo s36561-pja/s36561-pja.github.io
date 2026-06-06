@@ -56,9 +56,6 @@ nav{
 nav:hover{
     background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    text-align: center;
-    display: flex;
-    gap: 10%;
 }
 
 a{
@@ -73,8 +70,5 @@ a{
 a:hover{
     background-color: rgb(150, 140, 127);
     color: rgb(158, 115, 6);
-    text-align: center;
-    display: flex;
-    gap: 10%;
 }
 
